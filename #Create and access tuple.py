@@ -1,0 +1,10 @@
+my_tuple = (1,2,3,4,5,6)
+print(my_tuple)
+print(my_tuple[2])
+my_tuple1 =((1,2),(3,4))
+print("Nested tuple ",my_tuple1)
+print("Accessing element from nested tuple ",my_tuple1[0][1])
+new_tuple = my_tuple + (87,45)
+print("Addtion of tuple ",new_tuple)
+repeated_tuple = my_tuple*2
+print(repeated_tuple)
