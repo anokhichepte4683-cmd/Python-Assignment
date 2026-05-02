@@ -1,6 +1,6 @@
 import shapes
 print("1.Circle")
-print("2.Rectabgle")
+print("2.Rectangle")
 print("3.Triangle")
 choice = int(input("Enter your choice:"))
 if choice ==1:
